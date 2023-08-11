@@ -25,7 +25,7 @@
     
     ```bash
     
-    cd JelaSvijeta
+    cd jela-svijeta
     ```
     
 3. Install Composer dependencies:
